@@ -30,5 +30,6 @@ public class StringTest {
         System.out.println(s.replace(" ", ""));
 
         System.out.println(String.valueOf(123));
+        System.out.println(-----------------------------);
     }
 }
